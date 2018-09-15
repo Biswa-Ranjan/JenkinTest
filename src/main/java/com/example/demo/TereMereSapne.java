@@ -1,4 +1,4 @@
-Class TereMereSapne{
+class TereMereSapne{
 
 public void rubaroo(){
 
